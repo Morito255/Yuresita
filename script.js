@@ -58,7 +58,7 @@ document.addEventListener('keydown', function (e) {
       const avatarUrl = `https://cdn.discordapp.com/avatars/${user.discord_user.id}/${user.discord_user.avatar}.png`;
       const username = user.discord_user.username;
   
-      let activityContent = `<p style="margin:0;">𝓗𝓸𝓵𝓪 𝓼𝓸𝔂 𝓨𝓾𝓻𝓮𝓼𝓲𝓽𝓪</p>`;
+      let activityContent = `<p style="margin:0;">𝕴𝖙 𝖉𝖗𝖎𝖛𝖊𝖘 𝖒𝖊 𝖈𝖗𝖆𝖟𝖞</p>`;
       let largeImage = "";
   
       if (isListening) {
